@@ -1,0 +1,19 @@
+{
+    "monsters": [
+      {
+        "name": "FireFlame",
+        "health": 100,
+        "attack": 20,
+        "defense": 20,
+        "type": "Fire"
+      },
+      {
+        "name": "Smeogle",
+        "health": 100,
+        "attack": 15,
+        "defense": 18,
+        "type": "Water"
+      }
+    ]
+}
+  

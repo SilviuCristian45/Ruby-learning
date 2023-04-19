@@ -1,0 +1,43 @@
+{
+    "trainers": [
+      {
+        "name": "Ash",
+        "monsters": [
+          {
+            "name": "Pikachu",
+            "health": 80,
+            "attack": 20,
+            "defense": 10,
+            "type": "Fire"
+          },
+          {
+            "name": "Charizard",
+            "health": 100,
+            "attack": 30,
+            "defense": 20,
+            "type": "Fire"
+          }
+        ]
+      },
+      {
+        "name": "Misty",
+        "monsters": [
+          {
+            "name": "Starmie",
+            "health": 90,
+            "attack": 25,
+            "defense": 15,
+            "type": "Water"
+          },
+          {
+            "name": "Psyduck",
+            "health": 70,
+            "attack": 15,
+            "defense": 5,
+            "type": "Water"
+          }
+        ]
+      }
+    ]
+  }
+  
